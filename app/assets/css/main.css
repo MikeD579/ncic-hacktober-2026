@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    background-color: #222;
+    /* background-image: radial-gradient( */
+    /*     rgb(0, 0, 0, 100), */
+    /*     rgb(0, 45, 45, 45), */
+    /*     rgb(0, 0, 0, 20) */
+    /* ); */
+    background-image:
+        radial-gradient(farthest-side at 90% -250%, rgb(20,60,170), transparent),
+        radial-gradient(farthest-side at 10% 400%, rgb(170,60,170), rgb(10,10,10));
+    color: white;
+}
