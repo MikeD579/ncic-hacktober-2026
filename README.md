@@ -28,6 +28,8 @@ judging other projects:
 This is my take on the student picker. I wanted something that will be easy to setup and run on day one of Dr. Rouse's class. Docker was the obvious solution.
 
 ## Teck Stack
+- Docker (version 29.6.2)
+  - Devcontainers (0.89.0)
 - pnpm (from corepack)
 - NodeJS (24.13.0)
 - Nuxt (4.5.2)
