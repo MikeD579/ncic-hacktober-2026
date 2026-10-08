@@ -23,3 +23,11 @@ judging other projects:
 - Design
 - Tech stack
 - Unique solutions
+
+# Docker Nuxt Student Picker
+This is my take on the student picker. I wanted something that will be easy to setup and run on day one of Dr. Rouse's class. Docker was the obvious solution.
+
+## Teck Stack
+- pnpm (from corepack)
+- NodeJS (24.13.0)
+- Nuxt (4.5.2)
